@@ -35,9 +35,7 @@
 
 ## 🖼️ Tampilan Aplikasi
 
-> Simpan file *screenshot* Anda ke folder proyek (misalnya `assets/screenshot-gui.png`) lalu sesuaikan path-nya jika menggunakan nama file lain.
-
-![Tampilan GUI Student Management System](assets/screenshot-gui.png)
+![Tampilan GUI Student Management System](screenshot-gui.png)
 
 ---
 
