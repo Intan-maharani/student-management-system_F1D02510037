@@ -33,6 +33,14 @@
 
 ---
 
+## 🖼️ Tampilan Aplikasi
+
+> Simpan file *screenshot* Anda ke folder proyek (misalnya `assets/screenshot-gui.png`) lalu sesuaikan path-nya jika menggunakan nama file lain.
+
+![Tampilan GUI Student Management System](assets/screenshot-gui.png)
+
+---
+
 ## 🧩 Arsitektur & Penerapan OOP
 
 | Komponen / Kelas | Peran dalam Program | Konsep OOP yang Diterapkan |
@@ -68,8 +76,3 @@ Antarmuka disusun menggunakan **Java Swing** dengan kombinasi `BorderLayout` (ta
 2. Kompilasi program:
    ```bash
    javac Main.java
-   ```
-3. Jalankan aplikasi:
-   ```bash
-   java Main
-   ```
